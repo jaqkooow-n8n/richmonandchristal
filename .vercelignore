@@ -1,0 +1,6 @@
+node_modules
+.git
+.vercel
+*.zip
+Wedding Website.zip
+.env*
